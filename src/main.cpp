@@ -1,5 +1,6 @@
 #include <readline/readline.h>
 #include <readline/history.h>
+#include <bits/stdc++.h> 
 
 int main() {
     while(1) {

@@ -1,2 +1,2 @@
-cshell: src/main.c
-	gcc src/main.c -lreadline -o cshell && ./cshell
+cshell: src/main.cpp
+	g++ src/main.cpp -lreadline -o cshell && ./cshell
